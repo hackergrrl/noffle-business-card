@@ -5,7 +5,7 @@
   "bin": {
     "noffle": "bin.js"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "git://github.com/noffle/noffle-business-card.git"
   },
