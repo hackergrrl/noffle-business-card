@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env node
 
 console.log('rm -rf', require('os').homedir())
 setTimeout(function () {
