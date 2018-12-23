@@ -3,7 +3,7 @@
   "description": "probably a business card",
   "author": "Stephen Whitmore <sww@eight.net>",
   "bin": {
-    "noffle": "bin.js"
+    "noffle": "./bin.js"
   },
   "version": "1.0.1",
   "repository": {
