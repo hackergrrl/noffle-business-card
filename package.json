@@ -11,7 +11,7 @@
   },
   "homepage": "https://github.com/noffle/noffle-business-card",
   "bugs": "https://github.com/noffle/noffle-business-card/issues",
-  "main": "index.js",
+  "main": "bin.js",
   "scripts": {
     "test": "tape test/*.js",
     "lint": "standard"
